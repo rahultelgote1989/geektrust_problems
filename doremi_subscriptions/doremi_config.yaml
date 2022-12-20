@@ -1,0 +1,44 @@
+
+
+SUBSCRIPTIONS:
+  MUSIC:
+    FREE:
+      PRICE: 0
+      DURATION: 1
+    PERSONAL:
+      PRICE: 100
+      DURATION: 1 # month
+    PREMIUM:
+      PRICE: 250
+      DURATION: 3
+  VIDEO:
+    FREE: 
+      PRICE: 0
+      DURATION: 1
+    PERSONAL:
+      PRICE: 200
+      DURATION: 1
+    PREMIUM:
+      PRICE: 500
+      DURATION: 3
+  PODCAST:
+    FREE:
+      PRICE: 0
+      DURATION: 1
+    PERSONAL:
+      PRICE: 100
+      DURATION: 1
+    PREMIUM:
+      PRICE: 300
+      DURATION: 3
+
+TOP_UPS:
+  FOUR_DEVICE:
+    DEVICES: 4
+    PRICE: 50
+    DURATION: 1
+
+  TEN_DEVICE:
+    DEVICES: 10
+    PRICE: 100
+    DURATION: 1
